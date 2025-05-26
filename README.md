@@ -34,7 +34,7 @@ This project focuses on cleaning and preprocessing the **Medical Appointment No 
 
 4. **Data Type Standardization**
 
-   * Ensured all datetime columns are correctly typed for time-based operations and analysis.
+   * All datatypes are correct.
 
 5. **Exporting the Cleaned Data**
 
